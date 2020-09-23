@@ -28,7 +28,7 @@ public class BaseController
     protected final Logger logger = LoggerFactory.getLogger(BaseController.class);
 
     /**
-     * 将前台传递过来的日期格式的字符串，自动转化为Date类型aa
+     * 将前台传递过来的日期格式的字符串，自动转化为Date类型aa77
      */
     @InitBinder
     public void initBinder(WebDataBinder binder)
